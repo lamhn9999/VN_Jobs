@@ -1,0 +1,6 @@
+Data/*.csv
+!Data/JobsData.csv
+
+Py/MyVenv
+Py/FatherPage.html
+Py/__pycache__

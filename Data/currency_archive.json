@@ -1,0 +1,43 @@
+{
+    "DEAL": [
+        "thoa thuan",
+        "deal",
+        "thỏa thuận",
+        "negotiation",
+        "negotiating",
+        "thuong luong",
+        "thoả thuận",
+        "negotiable",
+        "negotiate",
+        "thương lượng"
+    ],
+    "VND": [
+        "nghin",
+        "chuc",
+        "trăm",
+        "nghìn",
+        "đồng",
+        "ngàn",
+        "triệu",
+        "nam",
+        "trieu",
+        "chục",
+        "đ",
+        "dong",
+        "việt",
+        "tr",
+        "ngan",
+        "vnd"
+    ],
+    "USD": [
+        "dollar",
+        "us$",
+        "million",
+        "hundred",
+        "thousand",
+        "$",
+        "dollars",
+        "mil",
+        "usd"
+    ]
+}
