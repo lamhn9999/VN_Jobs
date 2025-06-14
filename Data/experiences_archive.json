@@ -1,0 +1,45 @@
+{
+    "manager_leader": [
+        "head of",
+        "leader",
+        "owner",
+        "điều phối",
+        "quản lý",
+        "manager",
+        "lead",
+        "giám đốc",
+        "trưởng"
+    ],
+    "senior": [
+        "senior",
+        "sr",
+        "cấp cao",
+        "cao cấp"
+    ],
+    "middle": [
+        "engineer",
+        "middle",
+        "mid",
+        "kỹ sư",
+        "mid level",
+        "chuyên viên"
+    ],
+    "junior": [
+        "junior",
+        "jr",
+        "nhân viên"
+    ],
+    "fresher": [
+        "entry level",
+        "ra trường",
+        "fresher",
+        "new grad"
+    ],
+    "intern": [
+        "internship",
+        "học việc",
+        "trainee",
+        "thực tập",
+        "intern"
+    ]
+}

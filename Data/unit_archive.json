@@ -1,0 +1,26 @@
+{
+    "10": [
+        "chuc",
+        "chục"
+    ],
+    "100": [
+        "trăm",
+        "hundred"
+    ],
+    "1000": [
+        "thousand",
+        "nghin",
+        "ngan",
+        "ngàn",
+        "nghìn",
+        "k"
+    ],
+    "1000000": [
+        "m",
+        "triệu",
+        "trieu",
+        "million",
+        "tr",
+        "mil"
+    ]
+}
